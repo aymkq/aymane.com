@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro',sans-serif;
+
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: rgb(251, 249, 249);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 375px ;
+    height: 520px;
+    background: rgb(226, 204, 204);
+    border-radius:15px ;
+    box-shadow: 4px 4px 30px;
+    padding: 20px;
+    overflow-y: scroll;
+    margin-top: 50pxpx;
+}
+.container form{
+    width: 100%;
+    border:1px solid rgb(82, 74, 235);
+    border-radius: 4px;
+}
+.container form input{
+   
+   outline: none;
+   box-shadow: none;
+   width: 100%;
+   font-size: 16px;
+   font-weight:600 ;
+ 
+}
+.product{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product h2{
+    padding: 10px;
+}
+.product img{
+    padding-top: 4px;
+   width: 70px;
+   height: 70px;
+   border-radius: 15px;
+}
+.product1{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product1 h2{
+    padding: 10px;
+}
+.product1 img{
+    padding-top: 4px;
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+}
+.product2{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product2 h2{
+    padding: 10px;
+}
+.product2 img{
+    padding-top: 4px;
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+}
+.product3{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product3 h2{
+    padding: 10px;
+}
+.product3 img{
+    padding-top: 4px;
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+}
+.product4{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.product4 h2{
+    padding: 10px;
+}
+.product4 img{
+    padding-top: 4px;
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;}
+    .product5{
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    }
+    .product5 h2{
+        padding: 10px;
+    }
+    .product5 img{
+        padding-top: 4px;
+        width: 70px;
+        height: 70px;
+        border-radius: 15px;}
+        .product6{
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+        .product6 h2{
+            padding: 10px;
+        }
+        .product6 img{
+           padding-top:4px;
+            width: 70px;
+            height: 70px;
+            border-radius: 15px;}
+            .product7{
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+            }
+            .product7 h2{
+                padding: 10px;
+            }
+            .product7 img{
+               padding-top:4px;
+                width: 70px;
+                height: 70px;
+                border-radius: 15px;}
+        
